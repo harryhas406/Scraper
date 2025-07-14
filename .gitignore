@@ -8,3 +8,9 @@ bhw-user-data
 data/
 Data
 *.json
+__pycache__/
+domain/
+*.session
+source/
+screenshots/
+Scripts/
