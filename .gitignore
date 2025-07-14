@@ -1,0 +1,10 @@
+.venv
+.ransomwareScrapeVenv
+.pf_darkforums_user_data
+darkforums_profile
+darkforums-firefox-profile
+bhw-firefox-profile
+bhw-user-data
+data/
+Data
+*.json
